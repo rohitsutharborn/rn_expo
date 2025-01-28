@@ -1,17 +1,40 @@
 {
   "name": "rn_expo",
+  "slug": "rnexpo",
+  "owner": "rohitsuthartechm",
   "displayName": "rn_expo",
+  "runtimeVersion": "1.0.0",
   "extra": {
     "eas": {
       "projectId": "6a67f23b-ba55-4df3-a998-8dde31cce5e4"
     }
   },
-  "owner": "rohitsuthartechm",
-  "slug": "rnexpo",
   "android": {
     "package": "com.rohitsuthartechm.rnexpo"
   },
   "ios": {
     "bundleIdentifier": "com.rohitsuthartechm.rnexpo"
+  },
+  "updates": {
+    "url": "https://u.expo.dev/6a67f23b-ba55-4df3-a998-8dde31cce5e4"
+  },
+  "expo": {
+    "name": "rn_expo",
+    "slug": "rnexpo",
+    "runtimeVersion": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.rohitsuthartechm.rnexpo"
+    },
+    "android": {
+      "package": "com.rohitsuthartechm.rnexpo"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/6a67f23b-ba55-4df3-a998-8dde31cce5e4"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6a67f23b-ba55-4df3-a998-8dde31cce5e4"
+      }
+    }
   }
 }
