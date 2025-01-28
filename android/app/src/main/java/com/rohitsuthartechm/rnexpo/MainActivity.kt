@@ -1,4 +1,4 @@
-package com.rn_expo
+package com.rohitsuthartechm.rnexpo
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

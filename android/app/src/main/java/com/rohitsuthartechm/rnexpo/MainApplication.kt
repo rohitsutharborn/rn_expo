@@ -1,4 +1,4 @@
-package com.rn_expo
+package com.rohitsuthartechm.rnexpo
 
 import android.app.Application
 import com.facebook.react.PackageList
