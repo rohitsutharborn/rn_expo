@@ -1,4 +1,11 @@
 {
   "name": "rn_expo",
-  "displayName": "rn_expo"
+  "displayName": "rn_expo",
+  "extra": {
+    "eas": {
+      "projectId": "6a67f23b-ba55-4df3-a998-8dde31cce5e4"
+    }
+  },
+  "owner": "rohitsuthartechm",
+  "slug": "rnexpo"
 }
